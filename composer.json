@@ -1,0 +1,12 @@
+{
+    "name": "rickyariansyah/midtrans-test",
+    "authors": [
+        {
+            "name": "Ricky Ariansyah",
+            "email": "ricky@roomme.space"
+        }
+    ],
+    "require": {
+        "midtrans/midtrans-php": "^2.3"
+    }
+}
